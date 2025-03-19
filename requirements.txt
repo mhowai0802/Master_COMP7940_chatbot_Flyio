@@ -1,0 +1,7 @@
+redis
+telegram
+python-telegram-bot==13.7
+configparser
+urllib3==1.26.18
+requests
+
